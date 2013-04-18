@@ -21,3 +21,8 @@
 1. [SCMという智慧](5.wisdom-of-scm.md "SCMという智慧")
 1. [SCMを意識したVCS利用](6.dance-with-scm.md "SCMを意識したVCS利用")
 1. [SCMの次のステップ](7.road-to-scm.md "SCMの次のステップ")
+
+## ライセンス
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+
+この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 3.0 非移植 ライセンスの下に提供されています。</a>
