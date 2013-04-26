@@ -1,6 +1,6 @@
 # VCS入門
 
-2013/4/15 高野 将
+高野 将
 
 ## はじめに
 
@@ -21,6 +21,7 @@
 1. [SCMという智慧](5.wisdom-of-scm.md "SCMという智慧")
 1. [SCMを意識したVCS利用](6.dance-with-scm.md "SCMを意識したVCS利用")
 1. [SCMの次のステップ](7.road-to-scm.md "SCMの次のステップ")
+1. [付録 : 参考文献](A.reference.md "付録 : 参考文献")
 
 ## ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
