@@ -5,6 +5,6 @@
 - [バージョン管理システム - Wikipedia](http://ja.wikipedia.org/wiki/バージョン管理システム)
 - [ソフトウェア構成管理 - Wikipedia](http://ja.wikipedia.org/wiki/ソフトウェア構成管理)
 - [構成管理 - Wikipedia](http://ja.wikipedia.org/wiki/構成管理)
-- [ソフトウェア構成管理(SCM)の入門資料 | 長沢智治のブログ | SoftwareEngineeringPlatform.com](http://softwareengineeringplatform.com/articles/scm-fundamental-material/)
+- [ソフトウェア構成管理入門 | ドクセル](https://www.docswell.com/s/nagasawa/ZR2W3K-software-configration-management-best-practices)
 - [チケット駆動開発 - Wikipedia](http://ja.wikipedia.org/wiki/チケット駆動開発)
 
